@@ -10,7 +10,7 @@ This is a chatbot that I am currently working on, this is a test version and I a
 # Require 
 + Operating systems that support batch (Windows, Linux, ...)
 + Note that this tool only supports Windows well, for Linux, you have to edit the script
-+ <table>
+ <table>
     <tr>
         <th>Operative system</th>
         <th> Version </th>
