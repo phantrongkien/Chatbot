@@ -34,7 +34,7 @@ This is a chatbot that I am currently working on, this is a test version and I a
 git clone https://github.com/phantrongkien/Chatbot.git 
 ```
 # Issues
-If you encounter any problems or have suggestions to improve the tool, please contact us via <a href="https://github.com/phantrongkien/Nettool/issues"> issues</a>
+If you encounter any problems or have suggestions to improve the tool, please contact us via <a href="https://github.com/phantrongkien/Chatbot/issues"> issues</a>
 
 
 ![Alt](https://repobeats.axiom.co/api/embed/9bfea1a7816d4404c3d0c44fe12e581fd5121649.svg "Repobeats analytics image")
