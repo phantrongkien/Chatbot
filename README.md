@@ -1,6 +1,7 @@
 # Chatbot
 ![Static Badge](https://img.shields.io/badge/Chatbot-Version_2.1-green) ![Static Badge](https://img.shields.io/badge/Supported_OS-Windows-orange) 
 <img src="https://img.shields.io/badge/Creator-PTK-blue?style=plastic&logo=github" width="110">
+
 This is a chatbot that I am currently working on, this is a test version and I am trying to update it to be able to understand more. Currently the model can learn based on user data.
 
 
