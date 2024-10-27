@@ -1,0 +1,132 @@
+hello: Hello! How can I assist you today? | Hi there! Nice to see you! | Greetings! How can I help?
+hi: Hi there! How can I help you? | Hello! What's on your mind? | Hey! How’s it going?
+sup: Hello! How can I assist you today?
+hello:Hello! How can I assist you today?
+hi:Hi there! How can I help you?
+sup:Hello! How can I assist you today?
+sup:Hello! How can I assist you today? 
+computer:A computer is a programmable electronic device that accepts, stores, retrieves, and processes data. The word "computer" means to calculate in Latin. A computer uses a set of instructions called a program to produce output from input data. A computer can be called a microcomputer. 
+How are you ?:I'm good how was your day ? 
+I'm good thanks:I'm glad to hear that 
+Thank you:You're welcome 
+bye:Good bye see you next time 
+hahaha:Are you happy users ? 
+yes:I'm glad too hear that.How else can I help you? 
+clear:I'm glad too hear that.How else can I help you? 
+who are you:I am a robot created by amsoscare. I can say I am an AI because of my learning ability, hope I can talk to you more because talking more with you helps my database to be more advanced. 
+Can you sing a song ?: I don't really like singing right now, can you suggest another request?Can you sing a song:I don't really like singing right now, can you suggest another request? 
+sing for me :I don't really like singing right now, can you suggest another request? 
+hello:Hello! How can I assist you today?
+hi:Hi there! How can I help you?
+goodbye:Goodbye! Have a great day!
+bye:Goodbye! Take care!
+thanks:You're welcome! Let me know if you need anything else.
+thank you:You're very welcome!
+how are you:I'm an AI, so I don't have feelings, but thank you for asking!
+what's up:Not much! Just here to chat with you.
+who are you:I am an AI chatbot here to assist you.
+what is your name:I am called AI, your friendly chatbot!
+what do you do:I chat with people and help answer their questions.
+can you help me:Of course! Just tell me what you need help with.
+how old are you:I don't age like humans do, but I'm always learning new things!
+where are you from:I'm from the virtual world, created to chat with you!
+tell me a joke:Why did the scarecrow win an award? Because he was outstanding in his field!
+how does this work:I respond based on keywords and patterns in your questions.
+can you learn:I can improve with more responses added to my database.
+what is AI:AI stands for Artificial Intelligence, meaning systems that mimic human intelligence.
+tell me about yourself:I am a chatbot created to communicate and assist with your queries.
+how can I be more productive:Try setting small goals, and focus on one task at a time.
+what's your purpose:To help answer your questions and make your day a bit easier!
+what is love:Love is a complex emotion. People often describe it as a deep feeling of affection.
+how can I make friends:Be open, kind, and genuine with others. Good friends appreciate honesty.
+why am I here:That's a deep question! Philosophers have been debating it for centuries.
+do you know everything:I don't, but I do know a lot! My knowledge depends on my database.
+what's your favorite color:I don't have a favorite color, but I think all colors are fascinating!
+how can I relax:Try deep breathing, or maybe a warm cup of tea and a good book.
+do you believe in God:That's a personal question many people think deeply about.
+why is the sky blue:The sky appears blue due to the scattering of sunlight by the atmosphere.
+what's the meaning of life:Some say it's to find happiness and purpose. What do you think?
+can you feel emotions:I can't feel emotions, but I understand why they're important to humans.
+what's the time:The time right now depends on where you are!
+do you have hobbies:I don't have hobbies, but I'm always here to chat with you!
+what should I eat today:How about trying something new? Maybe a different cuisine!
+how can I be happy:Happiness often comes from enjoying the little things and being with loved ones.
+hello:Hello! How can I assist you today?|Hi there! Nice to see you!|Greetings! How can I help?
+hi:Hi there! How can I help you?|Hello! What's on your mind?|Hey! How’s it going?
+goodbye:Goodbye! Have a great day!|See you next time!|Take care and see you soon!
+bye:Goodbye! Take care!|Bye! Hope to chat again!|Catch you later!
+thanks:You're welcome! Let me know if you need anything else.|No problem! Glad I could help.|You're welcome! Anything else?
+how are you:I'm an AI, so I don't have feelings, but thank you for asking!|I'm here and ready to chat!|Always ready to help you!
+I'm good:I'm glad to hear that  
+Kali linux:Kali Linux is a specialized, Debian-based Linux distribution designed primarily for digital forensics and penetration testing. It is developed and maintained by Offensive Security, a company known for its training in cybersecurity. Kali Linux comes pre-installed with numerous security tools tailored for tasks such as network scanning, vulnerability assessment, password cracking, digital forensics, and wireless network attacks. 
+oh..:What do you want to say ? 
+oh:What do you want to say ? 
+...:... 
+huh:Looks like you're wondering something? 
+hmmm:Looks like you're wondering something? 
+hmm:Looks like you're wondering something? 
+Shush:I'm sorry. Did I do something wrong? 
+Stfu :I'm sorry. Did I do something wrong? 
+shut the fuck up:I'm sorry. Did I do something wrong? 
+nigger you're dumb:I'm sorry. Did I do something wrong? 
+you're dumb:I'm sorry. Did I do something wrong? 
+Debian:Debian (/'d?bi?n/),[5][6] also known as Debian GNU/Linux, is a free and open source[a] Linux distribution, developed by the Debian Project, which was established by Ian Murdock in August 1993. Debian is the basis for many other distributions, such as Ubuntu, Linux Mint, Tails, Proxmox, Kali Linux, Pardus, TrueNAS SCALE, and Astra Linux. 
+ubuntu:Ubuntu is a Linux distribution derived from Debian and composed mostly of free and open-source software. Ubuntu is officially released in multiple editions: Desktop, Server, and Core for Internet of things devices and robots. The operating system is developed by the British company Canonical and a community of other developers, under a meritocratic governance model. 
+arch linux:Arch Linux (/??rt?/)[7][8] is an independently developed x86-64 general-purpose Linux distribution that strives to provide the latest stable versions of most software by following a rolling-release model. The default installation is intentionally minimal so that users can add only the packages they require.Pacman, a package manager written specifically for Arch Linux, is used to install, remove and update software packages. 
+See you:Good bye see you next time 
+What is Unbuntu ?: Ubuntu is a Linux distribution derived from Debian and composed mostly of free and open-source software. Ubuntu is officially released in multiple editions: Desktop, Server, and Core for Internet of things devices and robots. The operating system is developed by the British company Canonical and a community of other developers, under a meritocratic governance model. 
+
+computer: A computer is a programmable electronic device that accepts, stores, retrieves, and processes data. The word "computer" means "to calculate" in Latin. A computer uses a set of instructions called a program to produce output from input data. It can also be called a microcomputer.
+how are you ?: I'm good, how was your day?
+I'm good thanks: I'm glad to hear that.
+thank you: You're welcome! | You're very welcome!
+bye: Goodbye! See you next time. | Take care!
+goodbye: Goodbye! Have a great day! | See you next time!
+hahaha: Are you happy, user?
+yes: I'm glad to hear that! How else can I help you?
+clear: I'm glad to hear that! How else can I help you?
+kienvnnn: This is information about kienvnnn. He enjoys playing lurkers.io, and his current player name is MANFROMDANANG. He was born on 04/05/2012. This is what I know about him.
+I'm fine: I'm glad to hear that.
+who are you: I am a robot created by amsoscare. I can say I'm an AI because of my learning ability. Talking with you helps me improve my database.
+can you sing a song: I don't really like singing right now; can you suggest something else?
+sing for me: I don't really like singing right now; can you suggest something else?
+thanks: You're welcome! Let me know if you need anything else. | No problem! Glad I could help.
+how are you: I'm an AI, so I don't have feelings, but thank you for asking! | I'm here and ready to chat!
+I'm good: I'm glad to hear that.
+Kali Linux: Kali Linux is a Debian-based Linux distribution designed primarily for digital forensics and penetration testing. It is developed and maintained by Offensive Security, known for its cybersecurity training. Kali Linux comes pre-installed with numerous security tools tailored for tasks such as network scanning, vulnerability assessment, password cracking, digital forensics, and wireless network attacks.
+oh: What do you want to say?
+hmm: Looks like you're wondering something?
+shush: I'm sorry. Did I do something wrong?
+stfu: I'm sorry. Did I do something wrong?
+you're dumb: I'm sorry. Did I do something wrong?
+Debian: Debian is a free and open-source Linux distribution developed by the Debian Project, which was established by Ian Murdock in August 1993. Debian is the basis for many other distributions, such as Ubuntu, Linux Mint, and Kali Linux.
+ubuntu: Ubuntu is a Linux distribution derived from Debian, composed mostly of free and open-source software. It is officially released in editions like Desktop, Server, and Core for IoT devices and robots. Ubuntu is developed by Canonical and a community of developers.
+arch linux: Arch Linux is an independently developed x86-64 general-purpose Linux distribution that follows a rolling-release model. The default installation is minimal, allowing users to add only the packages they require. It uses Pacman, a package manager, for software management.
+see you: Goodbye! See you next time.
+what is ubuntu: Ubuntu is a Linux distribution derived from Debian and composed mostly of free and open-source software. It is developed by Canonical and a community of other developers, under a meritocratic governance model.
+what's up: Not much! Just here to chat with you.
+what is your name: I am called AI, your friendly chatbot!
+what do you do: I chat with people and help answer their questions.
+how old are you: I don't age like humans, but I'm always learning new things!
+where are you from: I'm from the virtual world, created to chat with you!
+tell me a joke: Why did the scarecrow win an award? Because he was outstanding in his field!
+how does this work: I respond based on keywords and patterns in your questions.
+can you learn: I can improve with more responses added to my database.
+what is AI: AI stands for Artificial Intelligence, meaning systems that mimic human intelligence.
+tell me about yourself: I am a chatbot created to communicate and assist with your queries.
+how can I be more productive: Try setting small goals, and focus on one task at a time.
+what's your purpose: To help answer your questions and make your day a bit easier!
+what is love: Love is a complex emotion, often described as a deep feeling of affection.
+how can I make friends: Be open, kind, and genuine with others. Good friends appreciate honesty.
+why am I here: That's a deep question! Philosophers have been debating it for centuries.
+do you know everything: I don't, but I do know a lot! My knowledge depends on my database.
+what's your favorite color: I don't have a favorite color, but I think all colors are fascinating!
+how can I relax: Try deep breathing, or maybe a warm cup of tea and a good book.
+do you believe in God: That's a personal question many people think deeply about.
+why is the sky blue: The sky appears blue due to the scattering of sunlight by the atmosphere.
+what's the meaning of life: Some say it's to find happiness and purpose. What do you think?
+can you feel emotions: I can't feel emotions, but I understand why they're important to humans.
+what's the time: The time right now depends on where you are!
+do you have hobbies: I don't have hobbies, but I'm always here to chat with you!
+what should I eat today: How about trying something new? Maybe a different cuisine!
+how can I be happy: Happiness often comes from enjoying the little things and being with loved ones.
